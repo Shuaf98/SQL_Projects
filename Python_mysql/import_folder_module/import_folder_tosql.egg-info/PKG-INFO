@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: import-folder-tosql
+Version: 1.0
+Summary: Module to import a folder into an SQL Database
+Home-page: UNKNOWN
+Author: Shua Friedman
+Author-email: sfriedman291@gmail.com
+License: UNKNOWN
+Description: This is a module I made which looks through each file in a provided directory
+                                  and adds each csv table in the directory to the provided database.
+Platform: UNKNOWN

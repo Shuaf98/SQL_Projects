@@ -1,0 +1,7 @@
+README.txt
+import_folder_tosql.py
+setup.py
+import_folder_tosql.egg-info/PKG-INFO
+import_folder_tosql.egg-info/SOURCES.txt
+import_folder_tosql.egg-info/dependency_links.txt
+import_folder_tosql.egg-info/top_level.txt
