@@ -2,5 +2,5 @@
 
 
 ## Covid Deaths Anlaysis Dashboard
-![Dashboard](https://github.com/Shuaf98/SQL/blob/main/dashboard.png)
+![Dashboard](https://github.com/Shuaf98/SQL_Projects/blob/main/SQL_projects/dashboard.png)
 
